@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+
+    body{
+        font-size: 2.5em;
+        padding: 40px 10px;
+        text-align: center;
+        color: #9E0C0C;
+        background-image: url("bg.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: none;
+    }
+
+    marquee{
+       background-color: #9E0C0C;
+       color:snow;
+
+    }
